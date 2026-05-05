@@ -2,31 +2,39 @@
 
 Ésta es la propuesta de colaboración para Automattic.
 
+Se articula en una parte en la **presencia destacada** de WP.com en nuestros medios (web y canal YT de Ciudadano 2.0) promocionando activamente WP.com como una opción muy atractiva y otra parte que es la **creación de contenidos de valor**.
+
+La promoción de WP.como un opción atractiva AHORA resulta natural ya efectivamente los planes actuales subsanas con sus mejorados  defectos del pasado que eran inconvenientes importantes.
+
+A mayores de esto, considero un acierto pleno la creación de WordPress Studio y la fuerte orientación a la IA en la creación de las webs con Claude Code a diferencia de los asistentes limitados de otras plataformas y competidores. 
+
+Los contenidos propuestos como un brainstorming de posibilidades **independientemente de su formato** (post, vídeo, webinar). De hecho, lo suyo sería reutilizar el mismo contenido en diferentes canales cuando resulte conveniente hacerlo.
+
+
 ## Índice
 
-- [Presencia en los medios](#presencia-en-los-medios)
-  - [Web de Ciudadano 2.0](#web-de-ciudadano-20)
-  - [Canal YouTube Ciudadano 2.0](#canal-youtube-ciudadano-20)
-- [Ideas de contenidos](#ideas-de-contenidos)
-  - [Creación contenido y SEO](#creación-contenido-y-seo)
-    - [Cómo crear contenido de calidad generado con IA con pipelines automatizadas](#cómo-crear-contenido-de-calidad-generado-con-ia-con-pipelines-automatizadas)
-    - [SEO desde cero patatero](#seo-desde-cero-patatero)
-    - [Cómo hacer SEO en el 2026 (nivel medio)](#cómo-hacer-seo-en-el-2026-nivel-medio)
-  - [Contenidos de IA y WordPress](#contenidos-de-ia-y-wordpress)
-    - [Iniciación a la IA para dummies](#iniciación-a-la-ia-para-dummies)
-    - [IA avanzado](#ia-avanzado)
-    - ["IA y WordPress"](#ia-y-wordpress)
-  - [Creación de webs con WordPress.com y generación de contenido](#creación-de-webs-con-wordpresscom-y-generación-de-contenido)
-    - [Cómo crear una web desde cero con WordPress.com con plantillas de sitio (live)](#cómo-crear-una-web-desde-cero-con-wordpresscom-con-plantillas-de-sitio-live)
-    - [Cómo crear una web desde cero con WordPress.com con IA (live)](#cómo-crear-una-web-desde-cero-con-wordpresscom-con-ia-live)
-    - [Cómo migrar una web a WordPress.com](#cómo-migrar-una-web-a-wordpresscom)
-    - [Plugin de Claude Code para WordPress.com](#plugin-de-claude-code-para-wordpresscom)
-
-## Presencia en los medios
+- [Presencia de WP.com en Ciudadano 2.0](#presencia-de-wpcom-en-ciudadano-20)
+  - [Presencia en el canal YouTube de Ciudadano 2.0](#presencia-en-el-canal-youtube-de-ciudadano-20)
+  - [Presencia en redes sociales](#presencia-en-redes-sociales)
+- [Temática creación contenidos y SEO](#temática-creación-contenidos-y-seo)
+  - [Cómo crear contenido de calidad generado con IA con pipelines automatizadas](#cómo-crear-contenido-de-calidad-generado-con-ia-con-pipelines-automatizadas)
+  - [SEO desde cero patatero](#seo-desde-cero-patatero)
+  - [Cómo hacer SEO en el 2026 (nivel medio)](#cómo-hacer-seo-en-el-2026-nivel-medio)
+- [Temática IA y WordPress](#temática-ia-y-wordpress)
+  - [Iniciación a la IA para dummies](#iniciación-a-la-ia-para-dummies)
+  - [IA avanzado](#ia-avanzado)
+  - ["IA y WordPress"](#ia-y-wordpress)
+- [Temática WordPress.com y temas relacionados](#temática-wordpresscom-y-temas-relacionados)
+  - [Tutorial de WordPress Studio](#tutorial-de-wordpress-studio)
+  - [Cómo crear una web desde cero con WordPress.com con plantillas de sitio (live)](#cómo-crear-una-web-desde-cero-con-wordpresscom-con-plantillas-de-sitio-live)
+  - [Cómo crear una web desde cero con WordPress.com con IA (live)](#cómo-crear-una-web-desde-cero-con-wordpresscom-con-ia-live)
+  - [Cómo migrar una web a WordPress.com](#cómo-migrar-una-web-a-wordpresscom)
+  - [Plugin de Claude Code para WordPress.com](#plugin-de-claude-code-para-wordpresscom)
+  - [Cómo integrar una pipeline de contenido automatizada con WordPress.com](#cómo-integrar-una-pipeline-de-contenido-automatizada-con-wordpresscom)
 
 Una parte del acuerdo es el compromiso de presencia de wp.com en los medios de Ciudadano 2.0. Nuestra actividad en redes sociales es prácticamente irrelevante, por tanto, nos centramos en la web y canal de Youtube.
 
-### Web de Ciudadano 2.0
+## Presencia de WP.com en Ciudadano 2.0
 
 En la web contiene **en torno a unos 50 contenidos relacionados con hosting y WordPress** que son contenidos **con potencial de marketing de afiliación**. Esto ha sido la fuente de ingresos de más del **90% del total de ingresos** de Ciudadano 2.0 (+2 millones de euros en comisiones de afiliación desde el 2013).
 
@@ -36,36 +44,27 @@ Esto, combinado con una estrategia de producción de contenido potenciado con IA
 
 En este sentido, nuestra propuesta es que WordPress.com ocupe un lugar destacado en esta reforma, como una solución alternativa muy atractiva al hosting propio. Básicamente todos los contenidos mencionarían esta opción como alternativa a los hostings mencionados.
 
-A esto se pueden añadir contenidos específicos. A modo de ejemplos de posibles contenidos:
-
-* Cómo crear una web con WordPress.com
-* Opinión y experiencia con WordPress.com
-* Cómo migrar una web WordPress con hosting a WordPress.com
-* Etc.
-
-### Canal YouTube Ciudadano 2.0
+### Presencia en el canal YouTube de Ciudadano 2.0
 
 Hemos tenido una actividad intensa en el canal de Youtube publicando vídeos de WordPress. Sin embargo, el retorno no ha sido el esperado. Por tanto, la intención, en principio, es publicar nuevos vídeos solamente de manera puntual.
 
 No obstante, si es del interés de Automattic, podemos explorar fórmulas como la creación de algún vídeo por encargo, etc. Es cuestión de encontrar fórmulas "creativas" que sean de interés mutuo.
 
-## Ideas de contenidos
+### Presencia en redes sociales
 
-Pensamos que lo más conveniente para las partes es una combinación de contenidos donde desde Ciudadano 2.0 seamos capaces de aportar mucho valor por nuestro conocimiento y experiencia, y contenidos
+Las demás redes sociales son casi irrelevantes en nuestro caso ya prácticamente no las usamos.
 
-Estas ideas se proponen como un mapa de posibles contenidos **independientemente de su formato** (post, vídeo, webinar). De hecho, lo suyo sería reutilizar el mismo contenido en diferentes canales cuando resulte natural hacerlo.
-
-### Creación contenido y SEO
+## Temática creación contenidos y SEO
 
 La creación de contenido de una manera productiva con IA, pero con calidad, sin caer en el IA slop es crucial. Se puede hacer de una manera muy eficiente, pero no es trivial. Hay que saber cómo y dominar las herramientas necesarias.
 
 Por otra parte, de poco sirve ese contenido si no se posiciona. Por tanto, el SEO sigue siendo un campo importante y donde la gente sigue perdida. Por tanto, me parece una oportunidad para crear contenido de valor.
 
-#### Cómo crear contenido de calidad generado con IA con pipelines automatizadas
+### Cómo crear contenido de calidad generado con IA con pipelines automatizadas
 
 [...]
 
-#### SEO desde cero patatero
+### SEO desde cero patatero
 
 Este contenido está orientado a principiantes absolutos y está orientado a "conectar" a los usuarios con el SEO ya que la mayoría de los propietarios de webs siguen sin tener ni idea de SEO.
 
@@ -80,7 +79,7 @@ En este caso, veo especialmente conveniente el **formato de webinar**. A modo or
 7. **Cómo medir tus resultados**: Google Search Console. Otras herramientas de tracking.
 8. **Impacto de la IA y cómo usarla a tu favor**: resúmenes de IA, como hacer "GEO" para incrementar las posibilidades de aparecer en los resúmenes de IA, etc.
 
-#### Cómo hacer SEO en el 2026 (nivel medio)
+### Cómo hacer SEO en el 2026 (nivel medio)
 
 Este contenido está orientado a propietarios de webs y creadores de contenido que ya conocen los fundamentos del SEO (los abordados en "SEO desde cero patatero") y quieren dar un paso más en lo práctico para ejecutar SEO de forma efectiva en el panorama actual.
 
@@ -96,11 +95,11 @@ También aquí veo conveniente el **formato de webinar**. A modo orientativo, lo
 8. **SEO local**: cómo aparecer como negocio en google y obtener reseñas. Opciones complementarias y alternativas: Trustpilot.
 9. **Herramientas profesionales**: Ahrefs, Semrush, DinoRank. Conclusión: no merecen la pena hasta que el contenido empiece a ser realmente estratégico en tu negocio, o bien, si tienes un presupuesto cómodo. Pero no pagues suscripciones caras si no ves un retorno claro.
 
-### Contenidos de IA y WordPress
+## Temática IA y WordPress
 
 [...]
 
-#### Iniciación a la IA para dummies
+### Iniciación a la IA para dummies
 
 [...]
 
@@ -118,7 +117,7 @@ A valorar:
 
 ¿Cómo se puede trabajar
 
-#### IA avanzado
+### IA avanzado
 
 [...]
 
@@ -130,26 +129,34 @@ A valorar:
 6. Comandos
 7. Rutinas, schedule y loops
 
-#### "IA y WordPress"
+### "IA y WordPress"
 
 [...]
 
-### Creación de webs con WordPress.com y generación de contenido
+## Temática WordPress.com y temas relacionados
 
 Temas que tengan cabida dentro de este ámbito general.
 
-#### Cómo crear una web desde cero con WordPress.com con plantillas de sitio (live)
-
-Usando las starter templates de Brainstorm Force
-
-#### Cómo crear una web desde cero con WordPress.com con IA (live)
-
-Con WordPress Studio y Claude Code.
-
-#### Cómo migrar una web a WordPress.com
+### Tutorial de WordPress Studio
 
 [...]
 
-#### Plugin de Claude Code para WordPress.com
+### Cómo crear una web desde cero con WordPress.com con plantillas de sitio (live)
+
+Usando las starter templates de Brainstorm Force
+
+### Cómo crear una web desde cero con WordPress.com con IA (live)
+
+Con WordPress Studio y Claude Code.
+
+### Cómo migrar una web a WordPress.com
+
+[...]
+
+### Plugin de Claude Code para WordPress.com
 
 Cosas en esta línea, por ejemplo: https://youtu.be/FKdYdvSggzU
+
+### Cómo integrar una pipeline de contenido automatizada con WordPress.com
+
+[...]
