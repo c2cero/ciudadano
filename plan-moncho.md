@@ -6,7 +6,7 @@ Se articula en una parte en la **presencia destacada** de WP.com en nuestros med
 
 La promoción de WP.como un opción atractiva AHORA resulta natural ya efectivamente los planes actuales subsanas con sus mejorados  defectos del pasado que eran inconvenientes importantes.
 
-A mayores de esto, considero un acierto pleno la creación de WordPress Studio y la fuerte orientación a la IA en la creación de las webs con Claude Code a diferencia de los asistentes limitados de otras plataformas y competidores. 
+A mayores de esto, considero un acierto pleno la creación de WordPress Studio y la fuerte orientación a la IA en la creación de las webs con Claude Code a diferencia de los asistentes limitados de otras plataformas y competidores.
 
 Los contenidos propuestos como un brainstorming de posibilidades **independientemente de su formato** (post, vídeo, webinar). De hecho, lo suyo sería reutilizar el mismo contenido en diferentes canales cuando resulte conveniente hacerlo.
 
@@ -101,15 +101,26 @@ También aquí veo conveniente el **formato de webinar**. A modo orientativo, lo
 
 ### Iniciación a la IA para dummies
 
-[...]
-
 A modo orientativo, los contenidos serían:
 
 1. **¿Qué es una IA? ¿Cómo funcionan? ¿Qué tipos hay?**: concepto de red neuronal, concepto de LLM, generación probabilística de texto, temas polémicos como si la IA tiene conciencia, tipos según lo que generan (LLMs para texto, generadores de imagen, audio, vídeo, código).
-2. **¿Qué puedes esperar de la IA?** Ejemplos de aplicación de la IA en el trabajo y vida personal. Acelerar el trabajo con información masiva. Integración con herramientas que ya usas, ejemplo de Office. La curiosa naturaleza "bipolar" de la IA: respuestas brillantes mezcladas con respuestas muy tontas. Alucinaciones. Necesidad de supervisión humana.
-3. **Formas de acceso a la IA**: chatbots (ChatGPT, Gemini, Claude, DeepSeek, Qwen), integración en aplicaciones (Copilot, Notion AI), acceso vía API, clientes locales (cowork, etc.), ejecución de modelos en local.
-4. **Conceptos fundamentales**: Modelos Prompts. Modelos (cerrados y de pesos abiertos). Tokens, Ventana de contexto (cómo la IA "olvida" si se vuelve excesiva). Tokens, consumo de tokens.
-5. **Cómo hacer buenos prompts**: claridad sobre lo que pides, dar contexto (rol, audiencia, formato esperado), incluir ejemplos cuando ayuda, e iteración (no se acierta a la primera, se refina). Una o dos plantillas reutilizables.
+2. **¿Qué puedes hacer con la IA?** Casos de uso concretos de aplicación de la IA en el trabajo y vida personal:
+  * **Resumen y redacción de documentos**: extraer la información esencial de documento largos. Crear un plan de contenidos para tu web. Crear contenidos concretos.
+  * **Consultas técnicas** (incluido legales y médicas, ejemplo caldera): Hacerte con una cultura básica en un problema concreto que tengas para no estar a voluntad del profesional que no siempre está a la altura. Anécdota de abogada en un tema reciente y mi pilla con su pantalla ChatGPT abierta...
+  * **Acelerar el trabajo con información masiva**. Integración con herramientas que ya usas, ejemplo de Office. La curiosa naturaleza "bipolar" de la IA: respuestas brillantes mezcladas con respuestas muy tontas. Alucinaciones. Necesidad de supervisión humana.
+  * **Atención de clientes**:
+3. **¿Qué puedes esperar de la IA?**:
+  * La curiosa naturaleza "bipolar" de la IA: respuestas brillantes mezcladas con respuestas muy tontas. Alucinaciones.
+  * Necesidad de supervisión humana. Ojo con el hype que ahora se vende mucho de que "los agentes trabajen por ti". Eso es una temeridad en muchos casos.
+4. **Formas de acceso a la IA**: chatbots (ChatGPT, Gemini, Claude, DeepSeek, Qwen), integración en aplicaciones (Copilot, Notion AI), acceso vía API, clientes locales (cowork, etc.), ejecución de modelos en local.
+5. **Conceptos fundamentales**: Modelos Prompts. Modelos (cerrados y de pesos abiertos). Tokens, Ventana de contexto (cómo la IA "olvida" si se vuelve excesiva). Tokens, consumo de tokens.
+6. **Cómo hacer buenos prompts**: claridad sobre lo que pides, dar contexto (rol, audiencia, formato esperado), incluir ejemplos cuando ayuda, e iteración (no se acierta a la primera, se refina). Una o dos plantillas reutilizables.
+7. **¿Qué nos hemos dejado en el tintero**: agentes, claude code, skills, etc.
+8. ** X Pasos prácticos a aplicar desde YA**:
+9. **Instrucciones globales personalizadas y proyectos**: ver en ChatGPT, Gemini y Claude cómo se crea un contexto base.
+10. X Hacks para resultados mucho mejores (con .md descargable): como las de aquí => https://youtu.be/C9Omu4wWGK0?si=musOfJnCK9yxxpCV . Meter aquí lo de resumir vídeos YouTube.
+
+Estructura de "ganchos" para que se queden hasta el final.
 
 A valorar:
 
@@ -122,6 +133,8 @@ A valorar:
 [...]
 
 1. **IAs para video**: [...]
+2. Extraer audio de vídeos para transcribirlo. Crear un esquema. Mejorarlo para que explique los conceptos que no has entendido.
+3. Pipeline de generación de contenidos a partir de .md con conversión a Office. Ver ventajas estratégicas como, por ejemplo, que puedes tener el .md core tuyo, pero donde personalizas para usos. Por ejemplo: un curso que das y donde personalizadas ciertos apartados para cada cliente. A partir del .md ya se genera el PPT.
 2. Clientes locales
 3. Ficheros markdown
 4. Agentes
