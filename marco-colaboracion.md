@@ -51,12 +51,28 @@ Tres modalidades, según prefiera el partner:
 
 El encaje económico final se trabaja en función del paquete (qué ejes se activan, cuántos contenidos patrocinados, etc.).
 
-## 5. Prerequisitos para entrar al "top"
+## 5. Horquilla de referencia (interno)
+
+Rangos orientativos para anclar mentalmente, no para abrir negociación. Regla general: que sea el partner quien abra cifra; si toca anclar, anclar alto y dejar el CPA como variable de cierre.
+
+- **Fijo anual de presencia top** (presencia + banner exclusivo + post de experiencia): **6.000–12.000 €/año** como centro. Por debajo de 5k no compensa el setup; por encima de 15k requiere métricas de tráfico/conversión contundentes.
+- **Contenido patrocinado adicional**: **400–900 €/post** redactado por el partner; **800–1.500 €** redactado por nosotros. Descuento por volumen si va incluido N en el paquete.
+- **Webinar**: **1.500–3.500 €** por webinar según promoción (lista + YouTube + redes). Referencia: 350 asistentes en el último con SiteGround.
+- **CPA además del fijo**: pedir igual o mejor que la tarifa pública estándar del partner. Si el fijo es alto, se puede ceder algo aquí; si es bajo, exigir CPA premium.
+- **Nivel "a granel"**: solo CPA, sin fijo. No hay exclusividad ni setup costoso que justifique presencia.
+
+Datos que conviene tener antes de cerrar cifra con un partner concreto:
+
+- Qué pagó el último top en su último ciclo (mejor ancla histórica).
+- Qué está pagando Raiola ahora (define el suelo para el otro hueco top).
+- Tráfico mensual real de los artículos de hosting (no solo audiencia agregada).
+
+## 6. Prerequisitos para entrar al "top"
 
 - Hosting convincente tras pruebas reales (cuenta VIP/de prueba).
 - Disposición a un acuerdo de presencia continuado (no one-shot).
 - Oferta económica competitiva — fijo anual de presencia y/o comisiones.
 
-## 6. Códigos de descuento exclusivos (opcional)
+## 7. Códigos de descuento exclusivos (opcional)
 
 Algunos partners ofrecen códigos de descuento altos y exclusivos para usuarios que vengan desde Ciudadano 2.0. Si está disponible, se incorpora al acuerdo como palanca de conversión.
