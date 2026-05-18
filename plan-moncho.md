@@ -66,34 +66,11 @@ Por otra parte, de poco sirve ese contenido si no se posiciona. Por tanto, el SE
 
 ### SEO desde cero patatero
 
-Este contenido está orientado a principiantes absolutos y está orientado a "conectar" a los usuarios con el SEO ya que la mayoría de los propietarios de webs siguen sin tener ni idea de SEO.
-
-En este caso, veo especialmente conveniente el **formato de webinar**. A modo orientativo, los puntos a tratar serían:
-
-1. **Introducción**: qué es el SEO y por qué importa. Cómo funciona (rastreo, indexación y ranking).
-2. **Intención de búsqueda y palabras clave**: cómo decide Google que contenidos responden a lo que el usuario busca. Tipos de búsquedas básicas y cómo aprovecharlas (informacionales - quiere saber algo vs transacciones - hay intención de compra). Cómo reenfocando el mismo contenido podemos atraer públicos muy diferentes.
-3. **Cómo saber qué demanda la gente en Google**: análisis de palabras clave básico, herramientas gratuitas útiles.
-4. **Cómo trabajar el SEO de un contenido**: El papel de meta title y meta descripción. Encabezados H1 - H6. Alt y title en las imágenes. Estructura de URLs. El papel del sitemap.
-5. **Cómo hacer SEO con WordPress.com**: como implementar todo lo anterior en WordPress.com
-6. **Cómo competir en Google**: E-E-A-T (Experiencia, Expertise, Autoridad, Confianza) explicado simple, enlaces y autoridad de página y dominio.
-7. **Cómo medir tus resultados**: Google Search Console. Otras herramientas de tracking.
-8. **Impacto de la IA y cómo usarla a tu favor**: resúmenes de IA, como hacer "GEO" para incrementar las posibilidades de aparecer en los resúmenes de IA, etc.
+Ver [webinars/SEO/seo-dummies.md](webinars/SEO/seo-dummies.md)
 
 ### Cómo hacer SEO en el 2026 (nivel medio)
 
-Este contenido está orientado a propietarios de webs y creadores de contenido que ya conocen los fundamentos del SEO (los abordados en "SEO desde cero patatero") y quieren dar un paso más en lo práctico para ejecutar SEO de forma efectiva en el panorama actual.
-
-También aquí veo conveniente el **formato de webinar**. A modo orientativo, los puntos a tratar serían:
-
-1. **La intención de búsqueda**: por qué es lo más importante en tu trabajo de SEO. Cómo detectarla (SERPs, IA, ...) y cómo resolverla (adaptar el contenido a ella). Ejemplos de análisis de la intención de búsqueda. Relación entre palabras clave e intención de búsqueda.
-2. **Estrategia de contenido y autoridad temática**: por qué dejar de pensar post a post y empezar a pensar en temas. Qué es la autoridad temática y cómo se construye. Planificación por clusters de contenido. Cómo Google y los LLMs evalúan la autoridad sobre un tema.
-3. **Análisis de palabras clave en profundidad**: cómo se hace una keyword research seria. Lectura de la intención directamente desde la SERP. Long-tail estratégico. Dificultad realista vs. la métrica de las herramientas. Gap analysis frente a competidores. Clusters de keywords aterrizados desde la estrategia del punto anterior.
-4. **Optimización para IA y GEO en profundidad**: estructura de contenido que la IA recoge bien (respuestas directas, datos verificables, listas, FAQs), schema útil, cómo evaluar tu visibilidad en AI Overviews y en respuestas de LLMs.
-5. **Sacar partido al contenido existente**: cómo usar Search Console como mina de oportunidades (keywords con impresiones pero pocos clicks, posiciones 8-15 a empujar). Reescritura estratégica. El SEO no es solo crear contenido nuevo.
-6. **SEO técnico esencial**: Core Web Vitals, velocidad, mobile, indexación, errores típicos. Qué puedes hacer sin ser técnico. Cómo WordPress.com te resuelve gran parte out-of-the-box.
-7. **Linkbuilding realista en 2026**: qué funciona hoy (PR digital, contenido enlazable, menciones de marca, presencia en fuentes que la IA consulta), qué ya no (intercambios masivos, granjas), y cómo conseguir tus primeros enlaces sin presupuesto.
-8. **SEO local**: cómo aparecer como negocio en google y obtener reseñas. Opciones complementarias y alternativas: Trustpilot.
-9. **Herramientas profesionales**: Ahrefs, Semrush, DinoRank. Conclusión: no merecen la pena hasta que el contenido empiece a ser realmente estratégico en tu negocio, o bien, si tienes un presupuesto cómodo. Pero no pagues suscripciones caras si no ves un retorno claro.
+Ver [webinars/SEO/seo-medium.md](webinars/SEO/seo-medium.md)
 
 ## Temática IA y WordPress
 
@@ -101,46 +78,11 @@ También aquí veo conveniente el **formato de webinar**. A modo orientativo, lo
 
 ### Iniciación a la IA para dummies
 
-A modo orientativo, los contenidos serían:
-
-1. **¿Qué es una IA? ¿Cómo funcionan? ¿Qué tipos hay?**: concepto de red neuronal, concepto de LLM, generación probabilística de texto, temas polémicos como si la IA tiene conciencia, tipos según lo que generan (LLMs para texto, generadores de imagen, audio, vídeo, código).
-2. **¿Qué puedes hacer con la IA?** Casos de uso concretos de aplicación de la IA en el trabajo y vida personal:
-  * **Resumen y redacción de documentos**: extraer la información esencial de documento largos. Crear un plan de contenidos para tu web. Crear contenidos concretos.
-  * **Consultas técnicas** (incluido legales y médicas, ejemplo caldera): Hacerte con una cultura básica en un problema concreto que tengas para no estar a voluntad del profesional que no siempre está a la altura. Anécdota de abogada en un tema reciente y mi pilla con su pantalla ChatGPT abierta...
-  * **Acelerar el trabajo con información masiva**. Integración con herramientas que ya usas, ejemplo de Office. La curiosa naturaleza "bipolar" de la IA: respuestas brillantes mezcladas con respuestas muy tontas. Alucinaciones. Necesidad de supervisión humana.
-  * **Atención de clientes**:
-3. **¿Qué puedes esperar de la IA?**:
-  * La curiosa naturaleza "bipolar" de la IA: respuestas brillantes mezcladas con respuestas muy tontas. Alucinaciones.
-  * Necesidad de supervisión humana. Ojo con el hype que ahora se vende mucho de que "los agentes trabajen por ti". Eso es una temeridad en muchos casos.
-4. **Formas de acceso a la IA**: chatbots (ChatGPT, Gemini, Claude, DeepSeek, Qwen), integración en aplicaciones (Copilot, Notion AI), acceso vía API, clientes locales (cowork, etc.), ejecución de modelos en local.
-5. **Conceptos fundamentales**: Modelos Prompts. Modelos (cerrados y de pesos abiertos). Tokens, Ventana de contexto (cómo la IA "olvida" si se vuelve excesiva). Tokens, consumo de tokens.
-6. **Cómo hacer buenos prompts**: claridad sobre lo que pides, dar contexto (rol, audiencia, formato esperado), incluir ejemplos cuando ayuda, e iteración (no se acierta a la primera, se refina). Una o dos plantillas reutilizables.
-7. **¿Qué nos hemos dejado en el tintero**: agentes, claude code, skills, etc.
-8. ** X Pasos prácticos a aplicar desde YA**:
-9. **Instrucciones globales personalizadas y proyectos**: ver en ChatGPT, Gemini y Claude cómo se crea un contexto base.
-10. X Hacks para resultados mucho mejores (con .md descargable): como las de aquí => https://youtu.be/C9Omu4wWGK0?si=musOfJnCK9yxxpCV . Meter aquí lo de resumir vídeos YouTube.
-
-Estructura de "ganchos" para que se queden hasta el final.
-
-A valorar:
-
-* Privacidad y qué pasa con los datos que escribes.
-
-¿Cómo se puede trabajar
+Ver [webinars/IA/ia-dummies.md](webinars/IA/ia-dummies.md)
 
 ### IA avanzado
 
-[...]
-
-1. **IAs para video**: [...]
-2. Extraer audio de vídeos para transcribirlo. Crear un esquema. Mejorarlo para que explique los conceptos que no has entendido.
-3. Pipeline de generación de contenidos a partir de .md con conversión a Office. Ver ventajas estratégicas como, por ejemplo, que puedes tener el .md core tuyo, pero donde personalizas para usos. Por ejemplo: un curso que das y donde personalizadas ciertos apartados para cada cliente. A partir del .md ya se genera el PPT.
-2. Clientes locales
-3. Ficheros markdown
-4. Agentes
-5. Skills
-6. Comandos
-7. Rutinas, schedule y loops
+Ver [webinars/IA/ia-medium.md](webinars/IA/ia-medium.md)
 
 ### "IA y WordPress"
 

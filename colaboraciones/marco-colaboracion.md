@@ -27,18 +27,22 @@ Sobre estos ejes se compone el paquete con cada partner:
    La base. Hace valer el setup de marca y la reputación que damos con la mención y la valoración. Incluye el post de experiencia y opinión.
 
 2. **Contenidos patrocinados**
-   N publicaciones acordadas (tipo post patrocinado) con sus enlaces, redactadas por el partner. Opcionalmente, podemos redactar nosotros contenidos bajo demanda que les interese publicar.
+   N publicaciones acordadas (tipo post patrocinado) con sus enlaces, redactadas por el partner.
 
-3. **Banner**
+3. ** Contenidos creados por nosotros**
+
+   N publicaciones acordadas (tipo post patrocinado) con sus enlaces, redactadas por el nosotros, con enlaces al partner.
+
+4. **Banner**
    Se reducen a 3 huecos: las 2 top + WP.com. Presencia exclusiva en ese espacio.
 
-4. **Webinar**
+5. **Webinar**
    Partner como host, Berto como ponente. Temáticas ya preparadas: SEO (básico / nivel medio) e IA (básico / nivel medio). Formatos alternativos tipo "web live" requieren evaluación previa de esfuerzo.
 
-5. **Lista de correo**
+6. **Lista de correo**
    ~28k activos (acumulados +100k, limpiada). Referencia: en el último webinar con SiteGround (hace ~1,5–2 años) entraron ~350 personas solo desde la lista.
 
-6. **Canal de YouTube**
+7. **Canal de YouTube**
    55k suscriptores. 5 meses sin publicar por reenfoque de formato (el formato anterior, muy elaborado, no compensaba). Encaje posible: nosotros como hosts, partner como invitado en temas que ya tengan preparados.
 
 ## 4. Modelos económicos
