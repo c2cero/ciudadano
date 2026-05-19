@@ -1,0 +1,2 @@
+* Índice inicial con los grandes apartados y clifhangers
+* "Primer contacto". Muy al principio, hacer directamente en vivo sin grandes introducciones una demos en vivo de casos de útiles sencillos a la vez que útiles. Podemos simular incluso el problema que tuve con el lavavajillas.
