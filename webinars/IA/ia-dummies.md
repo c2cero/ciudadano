@@ -13,9 +13,13 @@ Puedo meter ya el generador de webs con IA de wp.com.
 
 #### a) Qué es exactamente una IA
 
-#### b) Tipos de IA
+Concepto central de LLM.
 
-##### Modelos de lenguaje y Chatbots
+#### b) Tipos de IA y modelos
+
+##### Tipo Chatbot, orientados a lenguaje y audio
+
+Modelos orientados a texto. Incluimos aquí la transcripción (comprensión de audio) y la sintetización de voz.
 
 * Los grandes conocidos: ChatGPT, Copilot, Gemini, Claude.
 * Los menos conocidos, pero no menos grandes: Deepseek, QWen, Kimi.
@@ -24,10 +28,11 @@ Conceptos comunes en todos ellos: chat interactivo tipo Whatsapp, capacidad de s
 
 Modo voz. Hacer una demo.
 
-Generadores de imágenes
+##### Generadores de imágenes y de vídeo
 
 ##### IAs especializadas y casos curiosos
 
+* Música
 * Notebook LM
 
 #### x) ¿Qué puedes esperar de las IAs?
@@ -39,8 +44,22 @@ Generadores de imágenes
 
 ### 2. X Casos de uso prácticos de aplicación
 
-* Tu consultor personal en cualquier tema (ejemplos: mi reciendo problema con el lavaplatos que se bloqueo tras una limpieza de cal, asesoramiento en cuál es la mejor solución para el problema de la caldera, ...).
-* Tu tutor personal. Te puedes diseñar un curso de iniciación adaptado a tu perfil de conocimientos para cualquier materia que se te ocurra.
+#### **Consultor personal 24/7**
+
+Una buena IA puede resolver fácilmente el 80-90% de dudas que te surgen en situaciones cotidianas. En cualquier tema. La gente no se ha mentalizado hasta qué punto esto es brutalmente útil y les puede cambiar la vida.
+
+Ejemplos:
+
+a) Mi reciente problema con el lavaplatos que se bloqueo tras una limpieza de cal.
+
+b) , asesoramiento en cuál es la mejor solución para el problema de la caldera, ...)
+
+#### Formador personal
+
+Te puedes diseñar un curso de iniciación adaptado a tu perfil de conocimientos para cualquier materia que se te ocurra.
+
+Otros casos de uso:
+
 * Delegar investigaciones en Internet laboriosas. Caso típido de encontrar la mejor empresa para X. Por ejemplo: mejores proveedores en madrid para crear un armario de aluminio a medida para la caldera.
 * Informarte en temas de salud y legales. Tema muy polémico. Con razón. Anécdota de cómo he pillado a mi abogada con la pantalla de ChatGPT abierta en una reunión donde había consultado un tema relacionado con lo que le estábamos contratando. Artículo 1256 código civil (las partes de un contrato no pueden decidir unilateralmente si un contrato es válido, ni incumplir a voluntad). Ejemplos básicos de nutrición. Ideas para hacer un plan de comida saludable, rico y práctico (que no sea un coñazo ejecutar).
 * Mejorar tu trabajo diario con emails y en Office (con MS y Google). Revisar los documentos, pedir opinión, cambiar el estilo de redacción (más formal, menos formal, más conciso, redactar un email "delicado", etc.).
@@ -84,7 +103,6 @@ Ver LM Studio y cómo cargamos un modelo y trabajamos con el.
 * Instalar la app. Recomiendo dos para comparar. Por ejemplo: Gemini + ChatGPT.
 * Integrarlo al 100% en TODO lo que haces. A partir de ahora, cada vez que tengas una tarea, piensa activamente si la IA no te la puede aliviar de alguna manera.
 * Cualquier duda en cualquier momento, no busques a la "persona que sabe". Pregúntale a tu app de IA.
-
 
 A modo orientativo, los contenidos serían:
 
