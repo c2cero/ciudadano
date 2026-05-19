@@ -61,6 +61,7 @@ Te puedes diseñar un curso de iniciación adaptado a tu perfil de conocimientos
 Otros casos de uso:
 
 * Delegar investigaciones en Internet laboriosas. Caso típido de encontrar la mejor empresa para X. Por ejemplo: mejores proveedores en madrid para crear un armario de aluminio a medida para la caldera.
+* Análisis financiero: ¿por qué ha bajado Bitcoin y oro? Análisis de fundamentales de una acción según criterios. Incluso combinarlo con "extraer" criterios que los expertos repiten una y otra vez en sus vídeos.
 * Informarte en temas de salud y legales. Tema muy polémico. Con razón. Anécdota de cómo he pillado a mi abogada con la pantalla de ChatGPT abierta en una reunión donde había consultado un tema relacionado con lo que le estábamos contratando. Artículo 1256 código civil (las partes de un contrato no pueden decidir unilateralmente si un contrato es válido, ni incumplir a voluntad). Ejemplos básicos de nutrición. Ideas para hacer un plan de comida saludable, rico y práctico (que no sea un coñazo ejecutar).
 * Mejorar tu trabajo diario con emails y en Office (con MS y Google). Revisar los documentos, pedir opinión, cambiar el estilo de redacción (más formal, menos formal, más conciso, redactar un email "delicado", etc.).
 * Conocer los datos esenciales de documentos pesados (típicamente informes tamaño ladrillo de +100 páginas donde al final te interesan solamente unos datos clave muy concretos). Hacer un ejemplo financiero de la evalución del valor de una compañia.
