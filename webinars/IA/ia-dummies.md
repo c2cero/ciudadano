@@ -9,40 +9,116 @@ Puedo meter ya el generador de webs con IA de wp.com.
 
 ## Módulos del webinar
 
-### 1. Intro ¿Qué es una IA moderna, qué tipos de IA hay y qué se puede hacer con ellas?
+[...]
 
-#### a) Qué es exactamente una IA
+### 1. ¿Para quien es este webinar y qué vas a sacar de él?
 
-Concepto central de LLM.
+**¿Para quien es?**
 
-#### b) Tipos de IA y modelos
+* Partes de "cero patatero". No has usado la IA en un vida y quieres, al menos, conocer lo que es, para qué sirve y si te es útil.
+* Has trasteado ya un poco con IAs como ChatGPT, pero muy poco y quieres hacer ya con una base sólida.
+* Estás harto de perderte en las conversaciones de compañeros o los contenidos en Internet sobre IA. Quieres adquirir una base sólida, ya sea para tu trabajo, para tu vida personal, etc.
 
-##### Tipo Chatbot, orientados a lenguaje y audio
+**¿Qué habilidades sacarás de este webinar?**
 
-Modelos orientados a texto. Incluimos aquí la transcripción (comprensión de audio) y la sintetización de voz.
+* Dejarás de ser un "ignorante de la IA". Entenderás bien lo que es, para qué te sirve y cómo usarla. Entenderáss las conversaciones y contenidos sobre IA y podrás seguir formándote por tu cuenta (contenido en Youtube, etc.).
+* Dejar de depender de terceros en el 80% de las dudas y problemas que te asaltan en tu día a día.
+* Te perfil de competencia mejorará de manera DRÁSTICA. Tanto a nivel profesional como personal.
+* Trucos, "hacks" para conseguir mejores resultados y ser mucho más productivo que el típico usuario medio de IA.
 
-* Los grandes conocidos: ChatGPT, Copilot, Gemini, Claude.
-* Los menos conocidos, pero no menos grandes: Deepseek, QWen, Kimi.
+### 2. First Contact - ¿Qué es una IA, qué tipos de IA hay y para qué sirven?
+
+Demostración y "tutorial" por habilidades. Un primer pack de cosas que los alumnos deben aprender a hacer.
+
+#### x) Otros tipos de IA
+
+##### Generalistas tipo Chatbot, orientados a lenguaje, imágenes, audio y vídeo
+
+Inicialmente 100% texto (ChatGPT 3.5), pero han evolucionado a integrar imágene. Incluimos aquí la transcripción (comprensión de audio) y la sintetización de voz.
+
+* Los grandes conocidos: ChatGPT, Copilot, Gemini, Claude, Grok.
+* Los menos conocidos, pero no menos grandes: Deepseek, QWen, Kimi y muchas más.
 
 Conceptos comunes en todos ellos: chat interactivo tipo Whatsapp, capacidad de subir ficheros, capacidad de generar ficheros, proyectos. deep research, deep thinking, razonamiento. etc.
 
-Modo voz. Hacer una demo.
+Caso especial: Notebook LM.
 
-##### Generadores de imágenes y de vídeo
+##### Sectoriales
 
-##### IAs especializadas y casos curiosos
+IA legal, Claude Designer, Claude Code, etc.
 
-* Música
-* Notebook LM
+##### Hiperespecializadas
+
+* **Audio y vídeo**: Seedance AI, HeyGen, Suno AI. Demo en vivo con Suno. "Make a short, happy and optimistic song about IA".
+* **Sectoriales**:
+* **Hiperespecializadas**: conducción autónoma, AlphaFold & AlphaProteo, robótica, predicción del tiempo.
+
+### 3. Conceptos clave que hay que entender
+
+#### a) Qué es exactamente una IA
+
+Conceptos clave:
+
+**Redes Neuronales** (1943)
+    └──**Deep Learning** (2006)
+           ├── Modelos discriminativos (clasificación, detección...) (2012)
+           └── **Modelos generativos** (2013)  ← IA generativa moderna
+               ├── **Transformers** (LLMs: Claude, GPT) (2017)
+               ├── Modelos de difusión (DALL·E, Stable Diffusion, Sora) (2020)
+               ├── GANs (generación de imágenes, deepfakes) (2014)
+               ├── VAEs (autoencoders variacionales) (2013)
+               └── Modelos autoregresivos de audio (Suno, MusicLM) (2016)
+
+**Ejemplo gráfico para intuir cómo funciona una red neuronal:**
+
+[app demo de red neuronal]
+
+**Cronología de eventos clave en el mundo IA:**
+
+* **1943** — Redes Neuronales (McCulloch & Pitts)
+* **2006** — Deep Learning (Hinton et al.)
+* **2012** — Modelos discriminativos (AlexNet / ImageNet)
+* **2013** — Modelos generativos · VAEs (Kingma & Welling)
+* **2014** — GANs (Goodfellow et al.)
+* **2016** — Modelos autoregresivos de audio (WaveNet / DeepMind)
+* **2017** — Transformers ("Attention is All You Need")
+* **2020** — Modelos de difusión (DDPM / Ho et al.)
+* **2022** — DALL·E 2 y Stable Diffusion: primeros generadores de imagen accesibles al público
+* **2022** — ChatGPT (GPT-3.5, noviembre): primer chatbot conversacional que alcanzó masa crítica (GPT-3 ya existía desde 2020, pero era de acceso restringido)
+* **2023** — GPT-4, Claude 1, Bard/Gemini: explosión de chatbots avanzados y competencia abierta
+* **2024** — Sora (OpenAI, febrero): generación de vídeo realista
+* **2025** — DeepSeek R1: primer modelo open source que rivaliza con los grandes, lanzado por una empresa china
+
+Los **Transformers** son el concepto reciente que más nos ha impactado.
+
+Los Transformers introdujeron la idea de la **atención**: en lugar de leer textos secuencialmente, procesan toda la frase a la vez y calculan la relevancia de las palabras entre sí. En *"El trofeo no cabía en la maleta porque era demasiado grande"*, acaban sabiendo mediante el peso de las relaciones que "era" se refiere al trofeo, no a la maleta.
+
+Los **LLM (Large Language Models)** se basan en esta arquitectura y la aplican con cantidades obscenas de información: billones de palabras, básicamente todo Internet, miles de millones de libros, artículos, código...
+
+Después de billones de ejemplos, el modelo desarrolla una representación interna del mundo: hechos, razonamientos, lenguaje, contexto. Esto es la "inteligencia" del modelo a efectos de manejo del idioma, de razonamiento, etc. que ha sorprendido a los propios inventores de esto.
+
+Realmente ni tan siquiera quienes lo han inventado "entienden" esa representación interna, es una caja negra. Simplemente sabemos que estos modelos gigantes son capaces de predecir ante un input (tu prompt) la respuesta más probable (con cierto grado de variación) y que esas respuestas, a mayor tamaño del modelo, se vuelven más inteligentes y acertadas. Es decir, sabemos que una red gigante así adquiere estas capacidades emergentes, pero no sabemos exactamente cómo.
+
+Esto llega tan lejos que los modelos llegan a adquirir capacidades "de la nada". Por ejemplo, modelos que fueron capaces de comunicarse en idiomas para los cuales no recibieron prácticamente datos. Fueron capaces de inferir el significado de las palabras y asimilarlo a otros idiomas estructuralmente parecidos.
+
+Incluso se han observado casos donde IAs que interactúan entre sí desarrollaron su propio lenguaje, por sí solas, ininteligible para humanos.
+
+Lo fascinante e inquietante a la vez es que las elevadas capacidades de razonamiento y flexibilidad, como en humanos, no fueron "diseñadas", ni programadas ex profeso, fueron descubiertas por los ingenieros a medida que la tecnología permitía construir LLMs más grandes. Es decir, esto ha sido "magia" en muy buena medida.
+
+### 4. Limitaciones y riesgos de las IAs
 
 #### x) ¿Qué puedes esperar de las IAs?
+
+Idea central de que es estas cosas que te cambian la vida por completo. No se puede sobreestimar su potencial de impacto en tu vida personal y profesional.
 
 #### x) Riesgos
 
 * Te puedes hacer mucho más incompetente.
 * Tomar decisiones catastróficas por confiar ciegamente.
 
-### 2. X Casos de uso prácticos de aplicación
+### 4. X Casos de uso prácticos de aplicación
+
+Quizás un poco redundante con "First Contact".
 
 #### **Consultor personal 24/7**
 
@@ -76,6 +152,8 @@ Otros casos de uso:
 ### 3. Conceptos clave que hay que entender
 
 #### a) Redes neuronales y LLMs
+
+Parámetros. Qué significa 1 Trillon de parámetros.
 
 #### b) Modelos
 
